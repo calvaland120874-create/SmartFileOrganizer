@@ -12,7 +12,7 @@ SmartFileOrganizer es una aplicación de escritorio que organiza automáticament
 
 ## Instalación
 
-Descarga el .exe en Releases
+Descarga el .Zip en Releases y extraelo
 
 
 ### Usando el ejecutable
