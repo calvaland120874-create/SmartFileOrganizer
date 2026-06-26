@@ -1,0 +1,9 @@
+{
+  "monitored_folders": [
+    "C:\\Users\\calvin\\Downloads"
+  ],
+  "auto_organize": true,
+  "scan_interval_seconds": 3,
+  "conflict_strategy": "rename",
+  "start_with_windows": false
+}
