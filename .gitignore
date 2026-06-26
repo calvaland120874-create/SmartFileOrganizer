@@ -4,3 +4,11 @@ __pycache__/
 .venv/
 venv/
 logs/*.log
+build/
+dist/
+outputs/
+*.exe
+*.pkg
+*.zip
+*.pyc
+__pycache__/
